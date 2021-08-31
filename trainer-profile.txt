@@ -2,3 +2,12 @@ Education:
 Executive Leadership - IIM Tirchy
 MCA - Sambalpur University
 BSc CS - Berhampur University
+
+Skills:
+DevOps
+AWS Cloud
+Google Cloud
+GitLab CI/CD
+Terraform
+Jenkins
+Ansible
